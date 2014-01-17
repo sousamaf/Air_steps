@@ -1,0 +1,20 @@
+Conteúdos possíveis levantados em momentos diversos.
+
+
+Conteúdo steps:
+	Introdução:
+		- Semáforo
+	Fechamento:
+		- Projeto final de média complexidade
+	Geometria:
+		- Descoberta de ângulo
+	Física:
+		- Lançamento oblíquo
+		- Cálculo de velocidade e aceleração
+		- Conversão de temperaturas
+		- Cálculo da sensação térmica
+		- Dinâmica do movimento circular (CD)
+	Matemática:
+		- Regra de três
+	Química:
+	Geografia:
