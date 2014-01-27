@@ -22,6 +22,8 @@ Conteúdo steps:
 
 Possíveis aulas, sem ordem lógica:
 
-1 - Semáforo;
-2 - Robô inseto;
-3 - Medição de velocidade do robô;
+- Apresentação do kit steps;
+- Apresentação do MicroSteps (arduino) (reconhecer, aprender) e Ardublock;
+- Semáforo;
+- Robô inseto;
+- Medição de velocidade do robô;
