@@ -18,3 +18,10 @@ Conteúdo steps:
 		- Regra de três
 	Química:
 	Geografia:
+
+
+Possíveis aulas, sem ordem lógica:
+
+1 - Semáforo;
+2 - Robô inseto;
+3 - Medição de velocidade do robô;
