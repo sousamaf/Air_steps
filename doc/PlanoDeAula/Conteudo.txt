@@ -23,7 +23,7 @@ Conteúdo steps:
 Possíveis aulas, sem ordem lógica:
 
 - Apresentação do kit steps;
-- Apresentação do MicroSteps (arduino) (reconhecer, aprender) e Ardublock;
+- Apresentação do MicroSteps (arduino) (reconhecer, aprender) e Ardublock (input e output);
 - Semáforo;
 - Robô inseto;
 - Medição de velocidade do robô;
