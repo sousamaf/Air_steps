@@ -26,4 +26,6 @@ Possíveis aulas, sem ordem lógica:
 - Apresentação do MicroSteps (arduino) (reconhecer, aprender) e Ardublock (input e output);
 - Semáforo;
 - Robô inseto;
-- Medição de velocidade do robô;
+- Medição de velocidade do robô carro;
+
+
