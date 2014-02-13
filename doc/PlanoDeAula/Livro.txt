@@ -1,0 +1,18 @@
+﻿Título
+Introdução à Robótica: uma abordagem educacional
+
+ 1) A robótica como facilitadora do processo ensino-aprendizagem
+ 2) Apresentação do kit Steps (pra frente)
+ 3) Ambiente de programação Arduino (Arduino com ArduBlock)
+ 4) Iniciando os trabalhos (Semáforo)
+ 5) Prototipagem de circuitos eletrônicos
+ 6) Trabalhando com sensores ambientais (Cálculo de sensação térmica)
+ 7) Trabalhando com sensores de distância (Medidor de áreas de volumes)
+ 8) Produzindo Música digital
+ 9) Introdução à Robótica Móvel
+10) Trabalhando com motores (Catapulta)
+11) Construindo um Robô inseto
+12) Iniciando a construção de um robô autônomo (Medição de velocidade)
+13) Ensinando a se locomover (Seguidor de linha)
+14) Navegando em ambiente com obstáculos
+15) Projeto SumoBot
