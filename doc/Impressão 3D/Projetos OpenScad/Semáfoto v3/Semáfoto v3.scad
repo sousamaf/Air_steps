@@ -1,8 +1,8 @@
 include<cubo.scad>;
 
-color("green") base();
+//color("green") base();
 color("green") baseFundo();
-color("blue") semaforo();
+//color("blue") semaforo();
 //color("yellow") tampa();
 
 module semaforo()
@@ -127,7 +127,9 @@ module baseFundo()
 			translate([-29,-19.5,-14.5]) cube([60,57,4.5]);
 			translate([-26,-16.5,-8.5]) cube([54,51,8]);
 			translate([-24,-12.5,-12]) cube([44,4,8]);
-			translate([-24,26.5,-12]) cube([44,4,8]);
+//			translate([-24,-12.5,-12]) cube([22,4,8]);
+//			translate([-24,26.5,-12]) cube([44,4,8]);
+			translate([-24,26.5,-12]) cube([35,4,8]);
 		}
 	}
 	difference()
